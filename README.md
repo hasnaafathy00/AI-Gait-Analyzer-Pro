@@ -8,7 +8,7 @@ An advanced clinical tool for gait analysis using Computer Vision, featuring rea
 ## 📸 System Preview
 Here is the system analyzing a clinical gait sample:
 
-Screenshot 2026-05-03 063357.png
+![System Dashboard](https://github.com/hasnaafathy00/AI-Gait-Analyzer-Pro/blob/main/Screenshot%202026-05-03%20063357.png?raw=true)
 *Figure 1: Real-time Dashboard showing 118+ Cadence and Skeletal Mapping.*
 
 ---
@@ -16,8 +16,8 @@ Screenshot 2026-05-03 063357.png
 ## 📈 Biomechanical Analysis
 The system automatically generates detailed kinematic reports:
 
-![Symmetry Graph](Screenshot%202026-03-03%20182410.png)
-*Figure 2: Symmetry Trend Analysis (97% Consistency).*
+![Kinematic Graphs](https://github.com/hasnaafathy00/AI-Gait-Analyzer-Pro/blob/main/Screenshot%202026-05-03%20064202.png?raw=true)
+*Figure 2: 6-Joint Kinematic Trend Analysis.*
 
 ---
 

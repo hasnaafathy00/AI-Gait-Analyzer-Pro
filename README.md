@@ -8,7 +8,7 @@ An advanced clinical tool for gait analysis using Computer Vision, featuring rea
 ## 📸 System Preview
 Here is the system analyzing a clinical gait sample:
 
-![Dashboard](Screenshot%202026-03-03%20182245.png)
+Screenshot 2026-05-03 063357.png
 *Figure 1: Real-time Dashboard showing 118+ Cadence and Skeletal Mapping.*
 
 ---

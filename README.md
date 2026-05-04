@@ -1,13 +1,33 @@
-# 🦾 AI Gait Precision Analyzer 📊
+# 🦾 AI-Gait-Precision-Analyzer 📊
 **Developed by Dr. Hasnaa Fathy**
 
-This project provides a high-precision biomechanical analysis of human gait using Computer Vision (MediaPipe).
+An advanced clinical tool for gait analysis using Computer Vision, featuring real-time cadence tracking and biomechanical symmetry assessment.
 
-## 🚀 Performance Metrics
-- **Final Cadence:** 118 steps/min.
-- **Symmetry Score:** 97% (Bilateral Knee Kinematics).
-- **Joints Tracked:** Hip, Knee, and Ankle (6 Degrees of Freedom).
+---
 
-## 📂 Project Structure
-- `gait_analyzer.py`: Main processing engine.
-- `requirements.txt`: Necessary libraries to run the tool.
+## 📸 System Preview
+Here is the system analyzing a clinical gait sample:
+
+![Dashboard](Screenshot%202026-03-03%20182245.png)
+*Figure 1: Real-time Dashboard showing 118+ Cadence and Skeletal Mapping.*
+
+---
+
+## 📈 Biomechanical Analysis
+The system automatically generates detailed kinematic reports:
+
+![Symmetry Graph](Screenshot%202026-03-03%20182410.png)
+*Figure 2: Symmetry Trend Analysis (97% Consistency).*
+
+---
+
+## 🌟 Key Features
+- **High-Precision Cadence:** Optimized for 118-125 steps/min.
+- **Biomechanical Symmetry:** Comparative knee angle analysis.
+- **Clinical Reporting:** Generates automated Excel and Matplotlib reports.
+- **Dynamic Input:** Handles various video formats and patient metadata.
+
+## 🛠️ Installation & Usage
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the analyzer: `python gait_analyzer.py`
